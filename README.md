@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Francisa's Birthday Invitation</title>
+<title>Francisa Birthday Invitation</title>
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -34,8 +34,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>You're Invited!</h1>
-    <p>Come celebrate <strong>Francisa's Birthday</strong> with us!</p>
+    <h1>You're Invited BOSS!</h1>
+    <p>Come celebrate <strong>The Birthday Of FRANCISA!</strong> with us!</p>
     <div class="info">
       <p><strong>Date:</strong> October 22, 2025</p>
       <p><strong>Time:</strong> 10:00 AM</p>
