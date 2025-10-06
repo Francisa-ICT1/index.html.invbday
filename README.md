@@ -35,13 +35,13 @@
 <body>
   <div class="card">
     <h1>You're Invited BOSS!</h1>
-    <p>Come celebrate <strong>The Birthday Of FRANCISA!</strong> with us!</p>
+    <p>Come celebrate <strong>The Birthday Of FRANCISA!</strong>Go team!</p>
     <div class="info">
       <p><strong>Date:</strong> October 22, 2025</p>
       <p><strong>Time:</strong> 10:00 AM</p>
       <p><strong>Place:</strong> Tokyo, Japan</p>
     </div>
-    <p>Let’s make this day full of laughter and happiness. See you there!</p>
+    <p>Maraming Handa at palaro at kasiyahan ang mangyayari kaya punta na!</p>
   </div>
 </body>
 </html>
